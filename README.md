@@ -1,8 +1,3 @@
-# star-learn
-a website that help to improve teaching .
-
-DOM Selectors
---------------
 Hi 👋 My name is noor
 =====================
 
@@ -16,7 +11,7 @@ A developer love to learn new things
 * 🧠  I'm learning programming
 
 <a href="https://www.github.com/NOORABUSALEM" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NOORABUSALEM?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/NOORABUSALEM?logo=github&style=for-the-badge&color=facc15&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -40,8 +35,8 @@ src="https://img.shields.io/github/followers/NOORABUSALEM?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NOORABUSALEM"><img src="https://github-readme-stats.vercel.app/api?username=NOORABUSALEM&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="NOORABUSALEM's GitHub stats" /></a>
+<a href="http://www.github.com/NOORABUSALEM"><img src="https://github-readme-stats.vercel.app/api?username=NOORABUSALEM&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="NOORABUSALEM's GitHub stats" /></a>
 
-<a href="http://www.github.com/NOORABUSALEM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NOORABUSALEM&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/NOORABUSALEM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NOORABUSALEM&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="https://github.com/NOORABUSALEM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOORABUSALEM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/NOORABUSALEM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOORABUSALEM&langs_count=10&title_color=0891b2&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
